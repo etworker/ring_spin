@@ -1,0 +1,5 @@
+numpy
+Pillow
+opencv-python
+pillow-heif
+makelive
